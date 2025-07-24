@@ -31,7 +31,7 @@ A responsive React carousel component that fetches product data from [FakeStoreA
 
 ## 📸 Demo
 
-![Carousel Demo Screenshot](https://via.placeholder.com/800x400?text=React+Product+Carousel)
+![Product-Carousel Live Demo ](https://sachinparshetti.github.io/Products-Carousel/)
 
 ---
 
