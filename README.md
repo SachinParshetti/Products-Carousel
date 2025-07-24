@@ -44,12 +44,24 @@ A responsive React carousel component that fetches product data from [FakeStoreA
 
 ## 📂 Project Structure
 
-```bash
-src/
-├── components/
-│   └── Carousel.js
-├── App.js
-└── index.js
+├── node_modules/
+├── public/
+├── src/
+│   ├── assets/
+│   └── component/
+│       └── carousel/
+│           └── carousel.jsx
+│   ├── App.css
+│   ├── App.jsx
+│   ├── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── image.png
+├── index.html
+├── package.json
+├── package-lock.json
+├── README.md
+└── vite.config.js
 ```
 
 
