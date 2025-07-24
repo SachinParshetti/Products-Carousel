@@ -29,7 +29,7 @@ A responsive React carousel component that fetches product data from [FakeStoreA
 
 ---
 
-## 📸 Demo
+## 📸Live Demo
 
 ![Product-Carousel Live Demo ](https://sachinparshetti.github.io/Products-Carousel/)
 
@@ -62,7 +62,7 @@ A responsive React carousel component that fetches product data from [FakeStoreA
 ├── package-lock.json
 ├── README.md
 └── vite.config.js
-```
+---
 
 
 ## 🧑‍💻 Author
